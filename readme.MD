@@ -6,7 +6,7 @@ Repo for Go Hotel booking app. Tutorial from Udemy
 
 uses:
 
-######nosurf
-######chi
-######pat
-######edwards SCS session management
+###### nosurf
+###### chi
+###### pat
+###### edwards SCS session management
